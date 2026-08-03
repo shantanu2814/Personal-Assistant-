@@ -2,7 +2,7 @@ import os
 import json
 from openai import OpenAI
 from dotenv import load_dotenv
-from tools import tools, tool_map
+from tools import tool_map
 
 load_dotenv()
 
